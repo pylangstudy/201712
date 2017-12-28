@@ -1,4 +1,4 @@
-# [## [18.7. asynchat — 非同期ソケットコマンド/レスポンスハンドラ](https://docs.python.jp/3/library/asynchat.html)
+# [18.7. asynchat — 非同期ソケットコマンド/レスポンスハンドラ](https://docs.python.jp/3/library/asynchat.html)
 
 < [18. プロセス間通信とネットワーク](https://docs.python.jp/3/library/ipc.html) < [Python 標準ライブラリ](https://docs.python.jp/3/library/index.html#the-python-standard-library) < [ドキュメント](https://docs.python.jp/3/index.html)
 
